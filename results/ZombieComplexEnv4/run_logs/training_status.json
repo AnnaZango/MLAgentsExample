@@ -1,0 +1,29 @@
+{
+    "Zombie": {
+        "checkpoints": [
+            {
+                "steps": 131642,
+                "file_path": "results\\ZombieComplexEnv4\\Zombie\\Zombie-131642.onnx",
+                "reward": 0.9087142852090654,
+                "creation_time": 1704297428.091944,
+                "auxillary_file_paths": [
+                    "results\\ZombieComplexEnv4\\Zombie\\Zombie-131642.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 131642,
+            "file_path": "results\\ZombieComplexEnv4\\Zombie.onnx",
+            "reward": 0.9087142852090654,
+            "creation_time": 1704297428.091944,
+            "auxillary_file_paths": [
+                "results\\ZombieComplexEnv4\\Zombie\\Zombie-131642.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0.dev0",
+        "torch_version": "2.1.2+cpu"
+    }
+}

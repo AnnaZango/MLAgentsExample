@@ -1,0 +1,29 @@
+{
+    "Zombie": {
+        "checkpoints": [
+            {
+                "steps": 433875,
+                "file_path": "results\\ZombieRunAway2\\Zombie\\Zombie-433875.onnx",
+                "reward": null,
+                "creation_time": 1704385951.8874803,
+                "auxillary_file_paths": [
+                    "results\\ZombieRunAway2\\Zombie\\Zombie-433875.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 433875,
+            "file_path": "results\\ZombieRunAway2\\Zombie.onnx",
+            "reward": null,
+            "creation_time": 1704385951.8874803,
+            "auxillary_file_paths": [
+                "results\\ZombieRunAway2\\Zombie\\Zombie-433875.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0.dev0",
+        "torch_version": "2.1.2+cpu"
+    }
+}
